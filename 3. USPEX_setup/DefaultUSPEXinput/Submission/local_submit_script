@@ -1,0 +1,14 @@
+#!/bin/bash --login
+#SBATCH -o out
+#SBATCH -J JOB_NAME
+#SBATCH -t 4:00:00
+#SBATCH -N 1
+#SBATCH -A general
+#SBATCH -n 8
+#SBATCH -p mendoza_q
+
+ml -* intel/2020b VASP/6.2.1
+module load gnu-openmpi
+
+COMMAND_EXECUTABLE
+ 

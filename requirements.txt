@@ -1,0 +1,25 @@
+# SALSA v1.0.0 runtime dependencies (stages 1-4).
+# Versions are those the workflow has been exercised with; relax at your own risk.
+#
+# REQUIRES PYTHON >= 3.10. matplotlib 3.10.0, ipython 8.30.0 and scipy 1.15.2
+# each declare requires_python >= 3.10, so no earlier interpreter can resolve
+# this file.
+
+# Imported directly by the tracked source, verified by AST scan:
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.10.0
+ase==3.25.0
+ipython==8.30.0
+chemparse>=0.1.2
+
+# Transitive, pinned for reproducibility: ase declares scipy>=1.6.0 and would
+# otherwise resolve to whatever is current.
+scipy==1.15.2
+
+# Removed from the list that earlier documentation carried: `zipfile` is part
+# of the standard library and must not be pip-installed, while `torch`,
+# `spglib`, `requests` and `openpyxl` are imported nowhere in this repository.
+
+# Stage 3 additionally requires an external USPEX installation and a local,
+# separately licensed set of VASP POTCAR files (see README.md).

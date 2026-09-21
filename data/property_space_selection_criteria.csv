@@ -1,0 +1,4 @@
+Property,Minimum,Maximum,Tolerance
+Bandgap,1.23,2.8,0.2
+Oxidation,1.23,,0.2
+Reduction,,0,0.2

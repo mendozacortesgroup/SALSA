@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite both the software and the paper below.
+  The author list here is for the software; the paper it implements is cited
+  under preferred-citation.
+title: "SALSA: Substitution Approximation evoLutionary Search and Ab-initio"
+abstract: >-
+  A high-throughput multistage framework for identifying candidate materials
+  that satisfy user-defined target properties, combining ionic-substitution
+  composition generation, evolutionary crystal structure prediction, and
+  ab-initio validation.
+type: software
+license: MIT
+version: 1.0.0
+authors:
+  - family-names: Stafford
+    given-names: Sean M.
+  - family-names: Aduenko
+    given-names: Alexander
+  - family-names: Djokic
+    given-names: Marcus
+    orcid: "https://orcid.org/0000-0001-6504-9903"
+  - family-names: Lin
+    given-names: Yu-Hsiu
+    orcid: "https://orcid.org/0000-0002-3599-9032"
+  - family-names: Martinez
+    given-names: Gabriel
+    orcid: "https://orcid.org/0009-0002-3452-7321"
+  - family-names: Mendoza-Cortes
+    given-names: Jose L.
+    orcid: "https://orcid.org/0000-0001-5184-1406"
+repository-code: "https://github.com/mendozacortesgroup/SALSA"
+preferred-citation:
+  type: article
+  title: >-
+    Transforming Materials Discovery for Artificial Photosynthesis:
+    High-Throughput Screening of Earth-Abundant Semiconductors
+  year: 2023
+  doi: "10.48550/arXiv.2310.00118"
+  url: "https://arxiv.org/abs/2310.00118"
+  authors:
+    - family-names: Stafford
+      given-names: Sean M.
+    - family-names: Aduenko
+      given-names: Alexander
+    - family-names: Djokic
+      given-names: Marcus
+    - family-names: Lin
+      given-names: Yu-Hsiu
+    - family-names: Mendoza-Cortes
+      given-names: Jose L.

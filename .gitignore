@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Licensed VASP pseudopotentials - never commit these
+POTCAR
+POTCAR_*
+3. USPEX_setup/POTCARs/*
+!3. USPEX_setup/POTCARs/README.md
+
+# VASP / USPEX run output - large binaries, archive these elsewhere
+WAVECAR
+CHGCAR
+CHG
+vasprun.xml
+Projects/
+
+# Local environment
+.env
+.claude/
