@@ -89,7 +89,7 @@ class SALSAWorkflowManager:
                     self._is_partial_overwrite = True
                     break
                 elif choice == "cancel":
-                    print("Project setup cancelled.")
+                    print("Project setup canceled.")
                     return False
             else:
                 self._is_partial_overwrite = False

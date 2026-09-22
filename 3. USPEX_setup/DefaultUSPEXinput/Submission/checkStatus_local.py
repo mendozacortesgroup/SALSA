@@ -31,7 +31,7 @@ def checkStatus_local(jobID):
     # Step 1
     # SLURM only keeps a finished job visible to squeue for a short while
     # (MinJobAge, 300 s by default). After that - and for any id it does not
-    # recognise - squeue exits non-zero with "Invalid job id specified". That
+    # recognize - squeue exits non-zero with "Invalid job id specified". That
     # is the ordinary way this function learns the job is done, so it must be
     # treated as completion, not as a failure.
     #

@@ -14,9 +14,9 @@ distribution. Covers stages 1-4 - ionic substitution, property approximation,
 USPEX structure prediction and CRYSTAL setup. Stage 5, hybrid-DFT convex-hull
 phase stability, follows in v2.0.0.
 
-Every behavioural change below was verified by running the code rather than by
+Every behavioral change below was verified by running the code rather than by
 reading it, including against real SLURM on MSU HPCC where the scheduler's own
-behaviour is what is under test.
+behavior is what is under test.
 
 ### Added
 
@@ -77,7 +77,7 @@ behaviour is what is under test.
 - `Projects/`, 626 files and roughly 90 MB of `CHGCAR`, `WAVECAR` and further
   POTCAR data belonging to a specific study rather than to the tool. The
   directory is now created at runtime by `setup_project.sh` and is gitignored.
-- `.DS_Store` and `__pycache__` artefacts.
+- `.DS_Store` and `__pycache__` artifacts.
 
 Together these reduced the tracked tree from 825 to 138 files and the packed
 repository from about 15 MB to 1.1 MB.
