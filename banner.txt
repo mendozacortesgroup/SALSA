@@ -51,8 +51,6 @@ SSSSS               AAA  AAA       LLLL       SSSSS               AAA  AAA
 ░░░░░░                                                                    ░░░░░░
 ░░░░░░  script created on 2023-03-24                                      ░░░░░░
 ░░░░░░                                                                    ░░░░░░
-░░░░░░  script created by Sean Stafford                                   ░░░░░░
-░░░░░░                                                                    ░░░░░░
 ░░░░░░  v1.0.0 released on 2026-09-15                                     ░░░░░░
 ░░░░░░                                                                    ░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -60,11 +58,9 @@ SSSSS               AAA  AAA       LLLL       SSSSS               AAA  AAA
 ░░░░░░                                                                    ░░░░░░
 ░░░░░░  SALSA Authors                                                     ░░░░░░
 ░░░░░░                                                                    ░░░░░░
-░░░░░░  Dr. Sean M Stafford                                               ░░░░░░
-░░░░░░  Dr. Alex Aduenko                                                  ░░░░░░
 ░░░░░░  Marcus Djokic                                                     ░░░░░░
-░░░░░░  Yu-Hsiu Lin                                                       ░░░░░░
 ░░░░░░  Gabriel Martinez                                                  ░░░░░░
+░░░░░░  Dr. Alex Aduenko                                                  ░░░░░░
 ░░░░░░  Dr. Jose L Mendoza-Cortes                                         ░░░░░░
 ░░░░░░                                                                    ░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░

@@ -1,6 +1,5 @@
 #!/bin/bash
 # Completed on Mar 15 2023
-# author: Sean Stafford
 
 
 # quiet flag implemented following method 2 from stackoverflow.com/a/36003000/7839195

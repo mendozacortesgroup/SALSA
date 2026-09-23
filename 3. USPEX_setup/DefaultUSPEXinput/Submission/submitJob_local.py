@@ -5,7 +5,6 @@ import re
 import sys
 from io import open
 
-# Author = Sean Stafford
 # Adapted from script made by 'etikhonov'
 
 def submitJob_local(index, executable, script_path): 

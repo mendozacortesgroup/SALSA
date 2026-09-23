@@ -518,11 +518,13 @@ If you use this software, please cite the paper it implements:
 
 Machine-readable metadata is in `CITATION.cff`.
 
-The paper above has five authors. This repository additionally credits
-Gabriel Martinez, who adapted the group's separate working scripts into the
-single generalizable pipeline released here, under the guidance of Marcus
-Djokic. `CITATION.cff` lists the software authors; `preferred-citation`
-within it lists the paper's.
+Software authorship and paper authorship are not the same list, and neither
+contains the other. `CITATION.cff` lists the people who wrote this code;
+`preferred-citation` within it gives the paper's byline, unchanged. Gabriel
+Martinez adapted the group's separate working scripts into the single
+generalizable pipeline released here, under the guidance of Marcus Djokic;
+Alexander Aduenko wrote the similarity-matrix work that the substitution stage
+was adapted from.
 
 ## Versions
 

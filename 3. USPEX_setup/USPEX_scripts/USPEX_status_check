@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Completed on March 25 2023
-# Author: Sean Stafford
 
 
 print_usage() {

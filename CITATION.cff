@@ -13,21 +13,15 @@ type: software
 license: MIT
 version: 1.0.0
 authors:
-  - family-names: Stafford
-    given-names: Sean M.
-    orcid: "https://orcid.org/0000-0001-8010-4202"
-  - family-names: Aduenko
-    given-names: Alexander
-    orcid: "https://orcid.org/0000-0002-0959-2052"
   - family-names: Djokic
     given-names: Marcus
     orcid: "https://orcid.org/0000-0001-6504-9903"
-  - family-names: Lin
-    given-names: Yu-Hsiu
-    orcid: "https://orcid.org/0000-0002-3599-9032"
   - family-names: Martinez
     given-names: Gabriel
     orcid: "https://orcid.org/0009-0002-3452-7321"
+  - family-names: Aduenko
+    given-names: Alexander
+    orcid: "https://orcid.org/0000-0002-0959-2052"
   - family-names: Mendoza-Cortes
     given-names: Jose L.
     orcid: "https://orcid.org/0000-0001-5184-1406"
