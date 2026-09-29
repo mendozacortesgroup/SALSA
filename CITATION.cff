@@ -35,11 +35,15 @@ identifiers:
 preferred-citation:
   type: article
   title: >-
-    Transforming Materials Discovery for Artificial Photosynthesis:
-    High-Throughput Screening of Earth-Abundant Semiconductors
+    Transforming materials discovery for artificial photosynthesis:
+    High-throughput screening of earth-abundant semiconductors
+  journal: "Journal of Applied Physics"
+  volume: 134
+  issue: 23
+  start: "235706"
   year: 2023
-  doi: "10.48550/arXiv.2310.00118"
-  url: "https://arxiv.org/abs/2310.00118"
+  doi: "10.1063/5.0178907"
+  url: "https://doi.org/10.1063/5.0178907"
   authors:
     - family-names: Stafford
       given-names: Sean M.

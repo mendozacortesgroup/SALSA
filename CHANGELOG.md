@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Archived on Zenodo: https://doi.org/10.5281/zenodo.23045693
 
 First public release: the SALSA pipeline as used in the 2023 paper
-([arXiv:2310.00118](https://arxiv.org/abs/2310.00118)), cleaned for
+([J. Appl. Phys. 134, 235706](https://doi.org/10.1063/5.0178907); preprint [arXiv:2310.00118](https://arxiv.org/abs/2310.00118)), cleaned for
 distribution. Covers stages 1-4 - ionic substitution, property approximation,
 USPEX structure prediction and CRYSTAL setup. Stage 5, hybrid-DFT convex-hull
 phase stability, follows in v2.0.0.

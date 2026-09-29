@@ -522,9 +522,10 @@ Software (this release):
 Paper:
 
 > S. M. Stafford, A. Aduenko, M. Djokic, Y.-H. Lin, J. L. Mendoza-Cortes,
-> *Transforming Materials Discovery for Artificial Photosynthesis:
-> High-Throughput Screening of Earth-Abundant Semiconductors*,
-> arXiv:2310.00118 (2023). https://doi.org/10.48550/arXiv.2310.00118
+> Transforming materials discovery for artificial photosynthesis:
+> High-throughput screening of earth-abundant semiconductors,
+> *J. Appl. Phys.* **134**, 235706 (2023). https://doi.org/10.1063/5.0178907
+> (preprint: arXiv:2310.00118)
 
 Machine-readable metadata is in `CITATION.cff`.
 
