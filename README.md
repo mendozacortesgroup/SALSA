@@ -1,5 +1,7 @@
 # SALSA, user setup guide
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23045693.svg)](https://doi.org/10.5281/zenodo.23045693)
+
 ## SALSA directory tree:
 
 ```sh
@@ -509,7 +511,15 @@ not require VASP at all.
 
 ## Citing SALSA
 
-If you use this software, please cite the paper it implements:
+If you use this software, please cite both the software and the paper it implements.
+
+Software (this release):
+
+> M. Djokic, G. Martinez, A. Aduenko, J. L. Mendoza-Cortes,
+> *SALSA: Substitution Approximation evoLutionary Search and Ab-initio*,
+> version 1.0.1, Zenodo (2026). https://doi.org/10.5281/zenodo.23045693
+
+Paper:
 
 > S. M. Stafford, A. Aduenko, M. Djokic, Y.-H. Lin, J. L. Mendoza-Cortes,
 > *Transforming Materials Discovery for Artificial Photosynthesis:

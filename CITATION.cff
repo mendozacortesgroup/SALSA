@@ -11,7 +11,9 @@ abstract: >-
   ab-initio validation.
 type: software
 license: MIT
-version: 1.0.0
+version: 1.0.1
+doi: "10.5281/zenodo.23045693"
+date-released: "2026-09-29"
 authors:
   - family-names: Djokic
     given-names: Marcus
@@ -26,6 +28,10 @@ authors:
     given-names: Jose L.
     orcid: "https://orcid.org/0000-0001-5184-1406"
 repository-code: "https://github.com/mendozacortesgroup/SALSA"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23045693"
+    description: "Zenodo archive of this release"
 preferred-citation:
   type: article
   title: >-
