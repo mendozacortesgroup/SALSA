@@ -1,4 +1,4 @@
-# SALSA v1.0.x runtime dependencies (stages 1-4).
+# SALSA v1.0.0 runtime dependencies (stages 1-4).
 # Versions are those the workflow has been exercised with; relax at your own risk.
 #
 # REQUIRES PYTHON >= 3.10. matplotlib 3.10.0, ipython 8.30.0 and scipy 1.15.2

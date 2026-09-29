@@ -517,7 +517,7 @@ Software (this release):
 
 > M. Djokic, G. Martinez, A. Aduenko, J. L. Mendoza-Cortes,
 > *SALSA: Substitution Approximation evoLutionary Search and Ab-initio*,
-> version 1.0.1, Zenodo (2026). https://doi.org/10.5281/zenodo.23045693
+> version 1.0.0, Zenodo (2026). https://doi.org/10.5281/zenodo.23045693
 
 Paper:
 

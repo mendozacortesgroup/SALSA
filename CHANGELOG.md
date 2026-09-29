@@ -6,13 +6,9 @@ Ab-initio) will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.1] - 2026-09-29
+## [1.0.0] - 2026-09-29
 
-Archival release. No code changes.
-
-- Added the Zenodo DOI (10.5281/zenodo.23045693) to `CITATION.cff` and a DOI badge and software citation to the README.
-
-## [1.0.0] - 2026-09-15
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23045693
 
 First public release: the SALSA pipeline as used in the 2023 paper
 ([arXiv:2310.00118](https://arxiv.org/abs/2310.00118)), cleaned for

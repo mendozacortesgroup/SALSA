@@ -11,7 +11,7 @@ abstract: >-
   ab-initio validation.
 type: software
 license: MIT
-version: 1.0.1
+version: 1.0.0
 doi: "10.5281/zenodo.23045693"
 date-released: "2026-09-29"
 authors:
